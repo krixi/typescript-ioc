@@ -1,7 +1,6 @@
 .DS_Store
 es5.js
-*.js.map
-*.d.ts
+es5.js.map
 doc
 node_modules
 .vscode
